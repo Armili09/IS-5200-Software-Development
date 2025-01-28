@@ -1,5 +1,3 @@
-# IS-5200-Software-Development
-
 # Project Title: Organic overview
 
 ## Summary
