@@ -1,9 +1,8 @@
 # Project Title: Organic overview
 
-## Summary
-Organic food finder. It is a mobile and web application that allows you to find organic foods of your choice at reasonable prices.
+<b>Summary</b>: Organic food finder. It is a mobile and web application that allows you to find organic foods of your choice at reasonable prices.
 
-Development Model: <b>Incremental Model</b>
+<b>Development Model</b>: Incremental Model
 
 ### Team Members: 
 Armili Paturi
