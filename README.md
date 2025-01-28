@@ -3,8 +3,8 @@
 <b>Summary</b>: Organic food finder. It is a mobile and web application that allows you to find organic foods of your choice at reasonable prices.
 
 <b>Development Model</b>: Incremental Model <br>
-<b>Duration</b>: 6 Months <br>
-Functionalities: <b>5</b>
+<b>Duration</b>: 6 Months <br><br>
+Functionalities: 5
 
 ### Team Members: 
 <p> Armili Paturi</p>
