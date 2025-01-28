@@ -5,8 +5,8 @@
 <b>Development Model</b>: Incremental Model
 
 ### Team Members: 
-Armili Paturi
-Yesu Rakshana
-Manogna Narishetty
-Rohit Bandameedi
-Venkata Jaya Rami Reddy
+<br> Armili Paturi </br>
+<br> Yesu Rakshana </br>
+<br> Manogna Narishetty </br>
+<br> Rohit Bandameedi </br>
+<br> Venkata Jaya Rami Reddy </br>
